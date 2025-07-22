@@ -19,6 +19,7 @@
 Python | Flask | PostgreSQL | Git | Docker | HTML/CSS | JavaScript
 
 ## 📫 Contact Me
+<h1> Click on any of the icon </h1>
 <p aligin="left">
 <a href="mailto:tofhatwa@gmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/new-post.png" alt="new-post"/> 
