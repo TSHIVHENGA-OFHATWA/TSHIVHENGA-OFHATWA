@@ -2,7 +2,12 @@
 <h3>
     I'm a passionate Full stack developer  specializing in Back-end from South Africa 🇿🇦.<br>
     Feel free to check out my repository
+
 </h3>
+<p>
+    I’m an experienced backend developer with a strong focus on building secure, scalable, and maintainable systems. I specialize in backend architecture, API development, database design, and system integration. With a solid understanding of development best practices, I aim to deliver clean code that supports business objectives and provides a smooth user experience.
+    I enjoy working with tools like Python, Flask, FastAPI, PostgreSQL, and Docker, and I’m always looking for ways to make systems faster, safer, and easier to maintain. I value clear communication, teamwork, and continuous learning, and I take pride in building solutions that are not only technically sound but also practical and reliable in real-world use
+</p>
 <!-- **TSHIVHENGA-OFHATWA/TSHIVHENGA-OFHATWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:
