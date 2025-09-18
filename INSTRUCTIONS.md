@@ -6,7 +6,7 @@
 [Contributions Snake](https://github.com/Platane/snk)\
 [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
 [Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TSHIVHENGA-OFHATWA)](https://git.io/streak-stats)
 # Usage Instructions
 
  1. Fork this repo and name it `<your-username>`
