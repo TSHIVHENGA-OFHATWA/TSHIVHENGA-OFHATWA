@@ -69,7 +69,7 @@
   <img width=410 src="https://streak-stats.demolab.com/?user=TSHIVHENGA-OFHATWA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=TSHIVHENGA-OFHATWA&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSHIVHENGA-OFHATWA&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-Stats.vercel.app/api/top-langs/?username=TSHIVHENGA-OFHATWA&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -78,23 +78,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
-<br/>
-
-
-<!-- ## 📫 Contact Me
-<h6> Click on any of the icon </h6>
-<p aligin="left">
-<a href="mailto:tofhatwa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-</a>
-<a href="https://www.linkedin.com/in/ofhatwa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a> -->
-
-</a>
-</p>
-<h2> The following icon will take you to the diary app</h2>
-<a href="https://mrtdo.pythonanywhere.com">
-<img width="100" height="100" src="https://img.icons8.com/stickers/100/diary.png" alt="diary"/>
-</a>
