@@ -9,7 +9,7 @@
 <div align="center">
     <h3>
         I'm a passionate Full stack developer  specializing in Back-end from South Africa 🇿🇦.<br>
-        🔭 I’m a graduate of ALX**
+        🔭 I’m a graduate of ALX**<br>
         Feel free to check out my repository
     </h3>
 </div>
@@ -18,21 +18,23 @@
     I’m an experienced backend developer with a strong focus on building secure, scalable, and maintainable systems. I specialize in backend architecture, API development, database design, and system integration. With a solid understanding of development best practices, I aim to deliver clean code that supports business objectives and provides a smooth user experience.
     I enjoy working with tools like Python, Flask, FastAPI, PostgreSQL, and Docker, and I’m always looking for ways to make systems faster, safer, and easier to maintain. I value clear communication, teamwork, and continuous learning, and I take pride in building solutions that are not only technically sound but also practical and reliable in real-world use
 </p>
-    <div align="center"> 
-        <a href="mailto:tofhatwa@gmail.com" target="_blank">
-           <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-        </a>
-        <a href="https://www.linkedin.com/in/ofhatwa" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgelogo=linkedin&logoColor=white" target="_blank" />
-        </a>
+<div align="center"> 
+  <a href="mailto:tofhatwa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/ofhatwa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank" />
+  </a>
         <!--   ## 🛠️ Skills & Tools
             Python | Flask | PostgreSQL | Git | Docker | HTML/CSS | JavaScript
             <a href="https://TSHIVHENGA-OFHATWA.github.io" target="_blank">
                 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-            </a>
-        </div>
-    <hr/>
-    
+    </a>
+</div>
+
+<br/>
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br/>
     <div align="center">
@@ -57,9 +59,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=TSHIVHENGA-OFHATWA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=410 src="https://streak-stats.demolab.com/?user=TSHIVHENGA-OFHATWA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=TSHIVHENGA-OFHATWA&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSHIVHENGA-OFHATWA&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
