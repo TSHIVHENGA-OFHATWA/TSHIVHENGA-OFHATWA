@@ -25,11 +25,18 @@
   <a href="https://www.linkedin.com/in/ofhatwa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank" />
   </a>
-        <!--   ## 🛠️ Skills & Tools
+  <h2> The following icon will take you to the diary app</h2>
+  <a href="https://x.com/ofhatwaT" target="_blank">
+    <img width="100" height="100" src="https://img.icons8.com/color/48/twitterx--v1.png" target="_blank"/>
+  </a>
+<br/>
+  <a href="https://mrtdo.pythonanywhere.com">
+    <img width="100" height="100" src="https://img.icons8.com/stickers/100/diary.png" alt="diary"/>
+  </a>
+            <!--   ## 🛠️ Skills & Tools
             Python | Flask | PostgreSQL | Git | Docker | HTML/CSS | JavaScript
             <a href="https://TSHIVHENGA-OFHATWA.github.io" target="_blank">
                 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    </a>
 </div>
 
 <br/>
@@ -84,8 +91,7 @@
 <a href="https://www.linkedin.com/in/ofhatwa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a> -->
-<a href="https://x.com/ofhatwaT" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx--v1"/>
+
 </a>
 </p>
 <h2> The following icon will take you to the diary app</h2>
